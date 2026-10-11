@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/packaging/commit/3e67fc775e93166600c84a5183ab6a86afff84b5",
       "git:hexsha": "3e67fc775e93166600c84a5183ab6a86afff84b5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:38:04.055192+00:00"
     },
     {
       "@id": "https://repolex.ai/r/agronholm/packaging/commit/970baefe518d0fcd80c084ef41463785eeb03ae2",
